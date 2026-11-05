@@ -3,10 +3,10 @@
 **Team:** Aditi Koratpallikar, Pooja Saji, Tanisha Paryani
 
 ## Tech Stack
--Python
--Django
--SQLite
--HTML/CSS
+- Python
+- Django
+- SQLite
+- HTML/CSS
 
 ## Features
 - **Buyer and seller accounts:** registration, login, buyer profiles, and seller profiles with a short bio and location
